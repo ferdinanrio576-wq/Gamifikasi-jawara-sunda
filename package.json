@@ -1,0 +1,41 @@
+{
+  "name": "jawara-sunda",
+  "version": "1.0.0",
+  "description": "Aplikasi gamifikasi edukasi bahasa Sunda untuk siswa SD",
+  "main": "index.html",
+  "author": "Gamifikasi Student",
+  "license": "MIT",
+  "scripts": {
+    "start": "start index.html",
+    "dev": "start index.html",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "gamification",
+    "education",
+    "sundanese",
+    "language-learning",
+    "elementary-school",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "bugs": {
+    "url": "."
+  },
+  "homepage": ".",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
